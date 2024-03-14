@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App ITQM"/>
-    2024/02/29
+    2024/03/13----今天的日期
   </div>
 </template>
 
